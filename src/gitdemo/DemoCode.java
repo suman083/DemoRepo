@@ -6,6 +6,7 @@ public class DemoCode {
 		// TODO Auto-generated method stub
 		
 		System.out.println("1st line of code");
+		System.out.println("2nd line of commit ");
 
 	}
 
