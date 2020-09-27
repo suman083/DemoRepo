@@ -7,6 +7,7 @@ public class DemoCode {
 		
 		System.out.println("1st line of code");
 		System.out.println("2nd line of commit ");
+		System.out.println("local repodemo");
 
 	}
 
